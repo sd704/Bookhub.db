@@ -1,0 +1,85 @@
+{
+  "success":true,
+  "data": [
+    
+    { "id": 1,
+     "book_id": "101",
+     "name": "Batman - The Brave and the Bold (2012)",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 2,
+     "book_id": "102",
+     "name": "Batman - Earth One",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 3,
+     "book_id": "103",
+     "name": "Dark Nights - The Metal", 
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 4,
+     "book_id": "104",
+     "name": "Tales from the Dark Multiverse",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 5,
+     "book_id": "105",
+     "name":  "Batman - Last Knight on Earth",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 6,
+     "book_id": "106",
+     "name": "Batman - (2018) White Knight",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 7,
+     "book_id": "107",
+     "name": "Batman - (2019) Curse of the White Knight",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 8,
+     "book_id": "108",
+     "name": "Batman - The Black Mirror (2011)",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 9,
+     "book_id": "109",
+     "name": "Batman - The Court of Owls Saga (DC Essential Edition) (2018)",
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"},
+    
+    { "id": 10,
+     "book_id": "110",
+     "name": "Batman - In Darkest Knight (1994-12)"
+     "author": "lsjjdhf",
+     "rating": "4.6",
+     "price": "Rs. 300",
+     "image": "hgf"}
+  ]
+}
