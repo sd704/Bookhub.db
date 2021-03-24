@@ -16,7 +16,7 @@
      "author": "lxfghf",
      "rating": "4.8",
      "price": "Rs. 600",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 3,
      "book_id": "103",
@@ -24,7 +24,7 @@
      "author": "lse3hf",
      "rating": "5.0",
      "price": "Rs. 399",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 4,
      "book_id": "104",
@@ -32,7 +32,7 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 5,
      "book_id": "105",
@@ -40,7 +40,7 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 6,
      "book_id": "106",
@@ -48,7 +48,7 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 7,
      "book_id": "107",
@@ -56,7 +56,7 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 8,
      "book_id": "108",
@@ -64,7 +64,7 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 9,
      "book_id": "109",
@@ -72,7 +72,7 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"},
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"},
     
     { "id": 10,
      "book_id": "110",
@@ -80,6 +80,6 @@
      "author": "lsjjdhf",
      "rating": "4.6",
      "price": "Rs. 300",
-     "image": "hgf"}
+     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531355580l/9461047._SY475_.jpg"}
   ]
 }
